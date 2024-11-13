@@ -8,3 +8,9 @@
 7) step-1.7:  npm run dev
 8) output is -----------
 ![alt text](image.png)
+
+## --------------------- install ---------------------------------------
+9) npm install --save three
+10) npm install --save-dev vite
+11) ![alt text](image-1.png)
+12) 
